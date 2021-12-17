@@ -1,0 +1,4 @@
+jack:users:fdg6hfvj:/bin/bahs
+michael:cybersecurity:TopSecret123:/bin/sh
+oksana:accounting:yriuoi98765:/bin/bash
+elizabet:administrators:546fdgsh:/bin/sh
